@@ -19,11 +19,4 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 /.env
-/.idea/.gitignore
-/.idea/api-documentation-portal-demo-frontend.iml
-/.idea/sonarlint/issuestore/index.pb
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/inspectionProfiles/profiles_settings.xml
-/.idea/inspectionProfiles/Project_Default.xml
-/.idea/vcs.xml
+/.idea
