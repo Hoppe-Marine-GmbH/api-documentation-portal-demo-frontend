@@ -112,8 +112,9 @@ module.exports = {
             'docusaurus2-dotenv',
             {
                 path: "./.env",
-                silent: true,
-                default: true,
+                silent: false,
+                defaults: true,
+                systemvars: true,
             }
         ]
     ],
